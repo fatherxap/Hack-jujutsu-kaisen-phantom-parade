@@ -1,4 +1,4 @@
-# Hack script-jujutsu-kaisen-phantom-parade
+# Hack jujutsu kaisen phantom parade script 
 features 
 high damage 
 high mana 
