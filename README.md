@@ -1,2 +1,2 @@
-# Hack-jujutsu-kaisen-phantom-parade
+# Hack script-jujutsu-kaisen-phantom-parade
 features 
